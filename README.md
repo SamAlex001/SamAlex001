@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Sam Alex — a full-stack developer passionate about building clean, scalable, and user-focused applications. <br>I work primarily with React, Node.js, MongoDB, Java and SQL, and I love turning ideas into real, production-ready projects.<br><br>I enjoy designing intuitive interfaces, solving backend challenges, and continuously improving my craft through hands-on projects like CodeNest, Tickify, and Sportify. <br>Always learning, always building. 🚀
+👋 Hi, I'm Sam Alex — a full-stack developer passionate about building clean, scalable, and user-focused applications. <br>I work primarily with React, Node.js, MongoDB, Java and SQL, and I love turning ideas into real, production-ready projects.<br><br>I enjoy designing intuitive interfaces, solving backend challenges, and continuously improving my craft through hands-on projects like CodeNest, Tickify, and Sportify. 
+<br>Always learning, always building. 🚀
 
 
 # 💻 Tech Stack:
