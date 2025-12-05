@@ -1,6 +1,8 @@
 # 💫 About Me:
-👋 Hi, I'm Sam Alex — a full-stack developer passionate about building clean, scalable, and user-focused applications. <br>I work primarily with React, Node.js, MongoDB, Java and SQL, and I love turning ideas into real, production-ready projects.<br><br>I enjoy designing intuitive interfaces, solving backend challenges, and continuously improving my craft through hands-on projects like CodeNest, Tickify, and Sportify. 
-<br>Always learning, always building. 🚀
+👋 Hi, I'm Sam Alex — a full-stack developer passionate about building clean, scalable, and user-focused applications.
+<br>I work primarily with React, Node.js, MongoDB, Java and SQL, and I love turning ideas into real, production-ready projects.
+<br>I enjoy designing intuitive interfaces, solving backend challenges, and continuously improving my craft through hands-on projects like CodeNest, Tickify, and Sportify. 
+<br><br>Always learning, always building. 🚀
 
 
 # 💻 Tech Stack:
@@ -10,7 +12,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SamAlex001&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamAlex001&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
